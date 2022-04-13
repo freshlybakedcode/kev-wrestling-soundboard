@@ -32,8 +32,8 @@ const Button = styled.button`
   }
 
   &:active {
-    margin-top: 4px;
-    margin-bottom: -4px;
+    margin-top: 14px;
+    margin-bottom: 6px;
     -webkit-box-shadow: 0 1px 0 #F17C65,0 1px 2px rgba(0,0,0,0.25);
     -moz-box-shadow: 0 1px 0 #F17C65,0 1px 2px rgba(0,0,0,0.25);
     box-shadow: 0 1px 0 #F17C65,0 1px 2px rgba(0,0,0,0.25);
@@ -66,8 +66,8 @@ function App() {
           <Button onClick={() => handleAudio(Elbow)}>Elbow</Button>
           <Button onClick={() => handleAudio(Dinner)}>Dinner</Button>
         </ButtonContainer>
+        <img src={Kev} alt="Kevin went wrestling" style={{width: '100%'}}/>
       </div>
-      <img src={Kev} alt="Kevin went wrestling" />
     </>
   );
 }
