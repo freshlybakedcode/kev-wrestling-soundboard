@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kev-wrestling-soundboard/static/css/main.39aca568.css",
+    "main.js": "/kev-wrestling-soundboard/static/js/main.53f136c8.js",
+    "static/js/787.8bed8571.chunk.js": "/kev-wrestling-soundboard/static/js/787.8bed8571.chunk.js",
+    "static/media/twist.wav": "/kev-wrestling-soundboard/static/media/twist.b065731fefacb3130b3b.wav",
+    "static/media/dinner.wav": "/kev-wrestling-soundboard/static/media/dinner.feb46578637609d81327.wav",
+    "static/media/hamstrings.wav": "/kev-wrestling-soundboard/static/media/hamstrings.879bd5ebe7b0ecf12bff.wav",
+    "static/media/parmaham.wav": "/kev-wrestling-soundboard/static/media/parmaham.0c05626b5ed1268a973f.wav",
+    "static/media/elbow.wav": "/kev-wrestling-soundboard/static/media/elbow.db0a54ffedf51e98c30f.wav",
+    "static/media/snappedspleen.wav": "/kev-wrestling-soundboard/static/media/snappedspleen.e806e348c17912b6cb72.wav",
+    "static/media/youresquare.wav": "/kev-wrestling-soundboard/static/media/youresquare.655b3e830383beb283f4.wav",
+    "static/media/kev.png": "/kev-wrestling-soundboard/static/media/kev.0f4185cdf2d92ca96b49.png",
+    "index.html": "/kev-wrestling-soundboard/index.html",
+    "main.39aca568.css.map": "/kev-wrestling-soundboard/static/css/main.39aca568.css.map",
+    "main.53f136c8.js.map": "/kev-wrestling-soundboard/static/js/main.53f136c8.js.map",
+    "787.8bed8571.chunk.js.map": "/kev-wrestling-soundboard/static/js/787.8bed8571.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39aca568.css",
+    "static/js/main.53f136c8.js"
+  ]
+}
