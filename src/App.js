@@ -7,6 +7,8 @@ import Twist from './Audio/twist.wav';
 import ParmaHam from './Audio/parmaham.wav';
 import Elbow from './Audio/elbow.wav';
 import Dinner from './Audio/dinner.wav';
+import Chuckle from './Audio/chuckle.wav';
+import BeKind from './Audio/bekind.wav';
 
 import Kev from './Images/kev.png';
 
@@ -65,6 +67,8 @@ function App() {
           <Button onClick={() => handleAudio(ParmaHam)}>Parma Ham</Button>
           <Button onClick={() => handleAudio(Elbow)}>Elbow</Button>
           <Button onClick={() => handleAudio(Dinner)}>Dinner</Button>
+          <Button onClick={() => handleAudio(BeKind)}>Be Kind</Button>
+          <Button onClick={() => handleAudio(Chuckle)}>Chuckle</Button>
         </ButtonContainer>
         <img src={Kev} alt="Kevin went wrestling" style={{width: '100%'}}/>
       </div>
